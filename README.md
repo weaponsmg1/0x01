@@ -15,6 +15,6 @@ External cheat for CS 1.6 made in C++
 
 - Run cheat
 
--Screenshots
+# Screenshots
 
 <img width="1280" height="669" alt="image" src="https://github.com/user-attachments/assets/12860af0-5da9-477c-9180-698d5f704210" />
